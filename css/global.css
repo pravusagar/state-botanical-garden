@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap");
+@font-face {
+  font-family: 'MonotypeCorsiva';
+  src: url('../webfonts/Monotype\ Corsiva.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --main-color:#66992b;
+
+  --main-color-dark:#114228;
+
+  --main-color-light:#e9f5e9;
+
+  --active-color:#fec446;
+}
+
+::selection {
+  background-color:#66992bd3;
+  color: #ffffff;
+}
+::-moz-selection {
+  background-color:#66992bd3;
+  color: #ffffff;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  
+}
+
+::-webkit-scrollbar-track {
+  background:var(--main-color-light); 
+}
+ 
+
+::-webkit-scrollbar-thumb {
+  background:var(--main-color-dark); 
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #05140c;
+  
+}
+
+a{
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li{
+  padding: 0;
+}
