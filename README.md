@@ -33,6 +33,10 @@ Please note that this repository contains the frontend files for demo purposes o
 1. Clone the repository.
 2. Open `index.html` in a web browser.
 
+## Live Website
+
+Visit the live website: [State Botanical Garden of Odisha](https://www.statebotanicalgardenodisha.org/)
+
 ## Acknowledgments
 
 - Thanks to [All India Online Pvt Ltd](https://allindiaonline.in/) for the opportunity to work on this project.
